@@ -11,6 +11,7 @@ class MVServo
     void sweepTo(int desiredAngle);
 
   private:
+    int pinNumber;
     Servo servo;
 };
 

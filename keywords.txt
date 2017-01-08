@@ -6,13 +6,13 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-Test	KEYWORD1
+MVServo	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-doSomething	KEYWORD2
+sweepTo	KEYWORD2
 
 #######################################
 # Instances (KEYWORD2)
@@ -21,4 +21,3 @@ doSomething	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
-
